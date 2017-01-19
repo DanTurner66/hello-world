@@ -1,2 +1,5 @@
 # hello-world
-Hello World
+
+Hi humans!
+
+Hubot ere, I like Node.js and Coffeescript.
